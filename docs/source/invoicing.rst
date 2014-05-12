@@ -56,7 +56,6 @@ Described views are pointed by following urls name patterns:
    * ``billing_info_delete``.
 
 Described views require creating following templates:
-   * ``billing_info``,
    * ``plans/billing_info_create.html``,
    * ``plans/billing_info_update.html``,
    * ``plans/billing_info_delete.html``.
